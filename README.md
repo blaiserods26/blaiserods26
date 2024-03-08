@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaiserods26" alt="blaiserods26" /></a> </p>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Python Flask and Django**
 
 - 💬 Ask me about **Linux and Cybersecurity tools.**
 
