@@ -6,10 +6,6 @@
 <a href="https://tryhackme.com/p/blaiserods26">
   <img src="https://tryhackme-badges.s3.amazonaws.com/blaiserods26.png" alt="Your Image Badge" style="border-radius: 15px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
 </a>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaiserods26" alt="blaiserods26" /></a> </p>
-
 - 🌱 I’m currently learning **Python Flask and Django**
 
 - 💬 Ask me about **Linux and Cybersecurity tools.**
