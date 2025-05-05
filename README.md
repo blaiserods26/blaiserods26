@@ -8,7 +8,7 @@
 </a>
 
 
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png)
 
 
 - 🌱 I’m currently learning **Python Flask and Django**
