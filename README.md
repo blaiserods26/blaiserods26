@@ -8,6 +8,9 @@
 </a>
 
 
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
+
 - 🌱 I’m currently learning **Python Flask and Django**
 
 - 💬 Ask me about **Linux and Cybersecurity tools.**
