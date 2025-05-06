@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/blaiserods26">
-    <img src="https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png" alt="TryHackMe Stats" width="300">
+    <img src="https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png" alt="TryHackMe Stats" width="400">
   </a>
 </p>
 
