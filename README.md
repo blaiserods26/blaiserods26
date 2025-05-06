@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaiserods26&label=Profile%20views&color=0e75b6&style=flat" alt="blaiserods26" /> </p>
 
-<a href="https://tryhackme.com/p/blaiserods26">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/blaiserods26.png" alt="TryHackMe Badge" style="border-radius: 15px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
-</a>
-
-
-![tryhackme stats](https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png)
-
+<p align="center">
+  <a href="https://tryhackme.com/p/blaiserods26">
+    <img src="https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png" alt="TryHackMe Stats" width="200">
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Python Flask and Django**
 
