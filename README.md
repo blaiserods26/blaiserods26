@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaiserods26&label=Profile%20views&color=0e75b6&style=flat" alt="blaiserods26" /> </p>
 
 <p align="center">
-  <p>TryHackMe Stats </p>
+  <h2>My TryHackMe Stats</h2>
   <a href="https://tryhackme.com/p/blaiserods26">
     <img src="https://raw.githubusercontent.com/blaiserods26/blaiserods26/master/assets/thm_propic.png" alt="TryHackMe Stats" width="400">
   </a>
