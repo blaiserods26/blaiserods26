@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blaise Rodrigues</h1>
-<h3 align="center">I am passionate about Cybersecurity and Hacking and also a Frontend Web Dev Enthusiast.</h3>
+<h3 align="center">I am passionate about Cybersecurity and Hacking. I am a CTF Player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaiserods26&label=Profile%20views&color=0e75b6&style=flat" alt="blaiserods26" /> </p>
 
