@@ -6,7 +6,7 @@
 <p align="center">
   <h2>My TryHackMe Stats</h2>
   <a href="https://tryhackme.com/p/blaiserods26">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/blaiserods26.png?update=1" alt="Your Image Badge" width="400">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/blaiserods26.png" alt="Your Image Badge" width="400">
   </a>
 </p>
 
