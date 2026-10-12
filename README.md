@@ -29,11 +29,32 @@
 ### ⚡ About Me
 
 - 🎓 **Undergrad**: Pursuing **Computer Engineering** at *Fr. Conceicao Rodrigues College of Engineering (CRCE)*.
-- 🛡️ **Security Focus**: Passionate about **Cybersecurity, Penetration Testing, Cryptography, and OSINT**.
+- 🛡️ **Security Focus**: Passionate about **Cybersecurity, Penetration Testing, Reversing, and OSINT**.
 - 💻 **Engineering**: Creator of developer tools, published VS Code & Antigravity IDE extensions, and privacy-preserving browser add-ons.
 - 🌐 **Cloud & Infrastructure**: Hands-on with **AWS (EC2, RDS, VPC)**, Docker containerization, and automated CI/CD pipelines.
 - 🏆 **Hackathons**: Active competitor across national hackathons (**Smart India Hackathon (SIH)**, **TSEC Hacks**, **HackSphere**, **WeHacks**).
 - 💡 **Philosophy**: *"A Hacker and Web Developer combo is unbeatable."* Building systems that are not only performant and intuitive, but resilient by design.
+
+---
+
+### 📦 Published Extensions on Open VSX (`@BlaiseRodrigues`)
+
+<!-- OPENVSX_STATS_START -->
+<p align="center">
+  <a href="https://open-vsx.org/extension/BlaiseRodrigues">
+    <img src="https://img.shields.io/badge/Verified_Publisher-BlaiseRodrigues-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open VSX Publisher" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total_Downloads-1,346+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Published_Extensions-2-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Published Extensions" />
+</p>
+
+| Extension | Target IDEs | Live Downloads | Latest Version | Rating | Repository |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**Quotoo**](https://open-vsx.org/extension/BlaiseRodrigues/Quotoo) | `Google Antigravity IDE & VS Code` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/Quotoo?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="Quotoo Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/Quotoo?style=flat-square&color=0969da" alt="Quotoo Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/Quotoo?style=flat-square&color=ea7233" alt="Quotoo Rating" /></a> | [Code](https://github.com/blaiserods26/Limit-Check) |
+| [**CyChef**](https://open-vsx.org/extension/BlaiseRodrigues/cychef) | `VS Code, VSCodium & Cursor` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/cychef?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="CyChef Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/cychef?style=flat-square&color=0969da" alt="CyChef Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/cychef?style=flat-square&color=ea7233" alt="CyChef Rating" /></a> | [Code](https://github.com/blaiserods26/CyChef-VS) |
+<!-- OPENVSX_STATS_END -->
 
 ---
 
@@ -67,75 +88,8 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td><strong>⚡ Quotoo</strong><br><sub>Real-time AI Model Quota & Countdown Tracker</sub></td>
-      <td><code>Google Antigravity IDE</code> <code>VS Code</code></td>
-      <td align="center">
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo">
-          <img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/Quotoo?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="Quotoo Downloads" />
-        </a><br>
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo">
-          <img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/Quotoo?style=flat-square&color=0969da" alt="Quotoo Version" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo" target="_blank">
-          <img src="https://img.shields.io/badge/Install-Open_VSX-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open-VSX Install" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/blaiserods26/Limit-Check">
-          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🛡️ CyChef</strong><br><sub>CyberChef Workbench & In-Place IDE Transforms</sub></td>
-      <td><code>VS Code</code> <code>VSCodium</code> <code>Cursor</code></td>
-      <td align="center">
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef">
-          <img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/cychef?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="CyChef Downloads" />
-        </a><br>
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef">
-          <img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/cychef?style=flat-square&color=0969da" alt="CyChef Version" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef" target="_blank">
-          <img src="https://img.shields.io/badge/Install-Open_VSX-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open-VSX Install" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/blaiserods26/CyChef">
-          <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
-
----
-
-### 📦 Published Extensions on Open VSX (`@BlaiseRodrigues`)
-
-<!-- OPENVSX_STATS_START -->
-<p align="center">
-  <a href="https://open-vsx.org/extension/BlaiseRodrigues">
-    <img src="https://img.shields.io/badge/Verified_Publisher-BlaiseRodrigues-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open VSX Publisher" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Total_Downloads-1,346+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Published_Extensions-2-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Published Extensions" />
-</p>
-
-| Extension | Target IDEs | Live Downloads | Latest Version | Rating | Repository |
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| [**Quotoo**](https://open-vsx.org/extension/BlaiseRodrigues/Quotoo) | `Google Antigravity IDE & VS Code` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/Quotoo?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="Quotoo Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/Quotoo?style=flat-square&color=0969da" alt="Quotoo Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/Quotoo?style=flat-square&color=ea7233" alt="Quotoo Rating" /></a> | [Code](https://github.com/blaiserods26/Limit-Check) |
-| [**CyChef**](https://open-vsx.org/extension/BlaiseRodrigues/cychef) | `VS Code, VSCodium & Cursor` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/cychef?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="CyChef Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/cychef?style=flat-square&color=0969da" alt="CyChef Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/cychef?style=flat-square&color=ea7233" alt="CyChef Rating" /></a> | [Code](https://github.com/blaiserods26/CyChef-VS) |
-<!-- OPENVSX_STATS_END -->
-
-> 🔄 *All extension downloads above update live via Open VSX and are automatically kept in sync by [`.github/workflows/openvsx-stats.yml`](.github/workflows/openvsx-stats.yml).*
 
 ---
 
@@ -144,7 +98,7 @@
 <div align="left">
 
 #### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -158,7 +112,7 @@
 </p>
 
 #### 🌐 Frontend & User Interface
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -168,7 +122,7 @@
 </p>
 
 #### ⚙️ Backend, Frameworks & APIs
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -177,7 +131,7 @@
 </p>
 
 #### 🛡️ Cybersecurity, DevSecOps & Analysis
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cryptography-AES_RSA_ECC-purple?style=for-the-badge&logo=vault&logoColor=white" alt="Cryptography" />
   <img src="https://img.shields.io/badge/CyberChef-GCHQ-red?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="CyberChef" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -190,7 +144,7 @@
 </p>
 
 #### ☁️ Cloud, DevOps, Testing & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-EC2_%7C_RDS_%7C_VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
@@ -382,6 +336,5 @@
   </a>
 
   <br><br>
-  <sub>⭐ <em>Always excited to collaborate on open-source software, hackathons, security tooling, and challenging problems!</em> ⭐</sub>
 
 </div>
