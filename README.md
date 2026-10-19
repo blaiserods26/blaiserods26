@@ -45,15 +45,16 @@
     <img src="https://img.shields.io/badge/Verified_Publisher-BlaiseRodrigues-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open VSX Publisher" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Downloads-2,146+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
+  <img src="https://img.shields.io/badge/Total_Downloads-2,342+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Published_Extensions-2-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Published Extensions" />
+  <img src="https://img.shields.io/badge/Published_Extensions-3-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Published Extensions" />
 </p>
 
 | Extension | Target IDEs | Live Downloads | Latest Version | Rating | Repository |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**Quotoo**](https://open-vsx.org/extension/BlaiseRodrigues/Quotoo) | `Google Antigravity IDE & VS Code` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/Quotoo?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="Quotoo Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/Quotoo?style=flat-square&color=0969da" alt="Quotoo Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/Quotoo"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/Quotoo?style=flat-square&color=ea7233" alt="Quotoo Rating" /></a> | [Code](https://github.com/blaiserods26/Limit-Check) |
 | [**CyChef**](https://open-vsx.org/extension/BlaiseRodrigues/cychef) | `VS Code, VSCodium & Cursor` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/cychef?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="CyChef Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/cychef?style=flat-square&color=0969da" alt="CyChef Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/cychef"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/cychef?style=flat-square&color=ea7233" alt="CyChef Rating" /></a> | [Code](https://github.com/blaiserods26/CyChef-VS) |
+| [**LitCode**](https://open-vsx.org/extension/BlaiseRodrigues/litcode) | `VS Code, VSCodium & Cursor` | <a href="https://open-vsx.org/extension/BlaiseRodrigues/litcode"><img src="https://img.shields.io/open-vsx/dt/BlaiseRodrigues/litcode?style=flat-square&logo=openvsx&logoColor=white&label=Downloads&color=2ea44f" alt="LitCode Downloads" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/litcode"><img src="https://img.shields.io/open-vsx/v/BlaiseRodrigues/litcode?style=flat-square&color=0969da" alt="LitCode Version" /></a> | <a href="https://open-vsx.org/extension/BlaiseRodrigues/litcode"><img src="https://img.shields.io/open-vsx/rating/BlaiseRodrigues/litcode?style=flat-square&color=ea7233" alt="LitCode Rating" /></a> | [Code](https://github.com/blaiserods26/LitCode) |
 <!-- OPENVSX_STATS_END -->
 
 ---
