@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Verified_Publisher-BlaiseRodrigues-6933FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open VSX Publisher" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Downloads-3,253+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
+  <img src="https://img.shields.io/badge/Total_Downloads-3,382+-238636?style=for-the-badge&logo=openvsx&logoColor=white" alt="Total Downloads" />
   &nbsp;
   <img src="https://img.shields.io/badge/Published_Extensions-3-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Published Extensions" />
 </p>
